@@ -1,7 +1,8 @@
 # brand-assets
 
-Public image assets for the Kris Martinsons brand (Sprite Dawn design system),
-served from here so Notion pages and other tools can reference them by URL.
+Public image assets for the Kris Martinsons brand, served from here so Notion pages and other tools can
+reference them by URL. The brand is now the Kris Modern Design System; the files below are still the
+retired Sprite Dawn versions until they're regenerated.
 
 - `notion/lifeos-cover.png`: Life OS page cover
 - `notion/pixel-mark.png`: 3x3 pixel mark, used as page icon
